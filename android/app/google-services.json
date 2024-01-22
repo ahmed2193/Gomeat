@@ -1,0 +1,153 @@
+{
+  "project_info": {
+    "project_number": "555177416583",
+    "project_id": "vegakart-88adf",
+    "storage_bucket": "vegakart-88adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555177416583:android:1293edea48ced0fa9fe522",
+        "android_client_info": {
+          "package_name": "com.driver.vegakart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555177416583-377ogtsk0nt72pta9duo026kih57ig7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.driver.vegakart",
+            "certificate_hash": "688a1d838c204e486c15277c26ac56249e2cf36e"
+          }
+        },
+        {
+          "client_id": "555177416583-r8onjbaf25bi4ek1bv8a51i18ta0j2qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3YIu_vzhe70LBX067-0JuKHOHJzMyl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555177416583-r8onjbaf25bi4ek1bv8a51i18ta0j2qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555177416583:android:e9821043f8a89df99fe522",
+        "android_client_info": {
+          "package_name": "com.store.vegakart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555177416583-tejv03dktn481uj76un1f19srejr440s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.store.vegakart",
+            "certificate_hash": "688a1d838c204e486c15277c26ac56249e2cf36e"
+          }
+        },
+        {
+          "client_id": "555177416583-r8onjbaf25bi4ek1bv8a51i18ta0j2qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3YIu_vzhe70LBX067-0JuKHOHJzMyl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555177416583-r8onjbaf25bi4ek1bv8a51i18ta0j2qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555177416583:android:c0e04d256c4f32c69fe522",
+        "android_client_info": {
+          "package_name": "com.user.vegakart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555177416583-17gncplh93k5gtenphsq704219cvdjg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.vegakart",
+            "certificate_hash": "688a1d838c204e486c15277c26ac56249e2cf36e"
+          }
+        },
+        {
+          "client_id": "555177416583-c9cubpqj6up857p3fv1v26svlv3c69ke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.vegakart",
+            "certificate_hash": "f58f8e92f2adf6120735833625c67a93b0a0a4a2"
+          }
+        },
+        {
+          "client_id": "555177416583-ldosv2nia3vis2mua87fr3tst875vsbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.vegakart",
+            "certificate_hash": "c5ec0752c1142a1c28bfa30f1ff92a01b18192bd"
+          }
+        },
+        {
+          "client_id": "555177416583-nokn6ed4r8n4k4een63a3shcfu0ia4k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.vegakart",
+            "certificate_hash": "5f5e3c368f7acef10dfe93172a15643847064c82"
+          }
+        },
+        {
+          "client_id": "555177416583-t8cltlcrfcsda4qltpik83ovmtmou8a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.vegakart",
+            "certificate_hash": "df36146ce40b3f24c3658f2fbc74e92cdc43d7ff"
+          }
+        },
+        {
+          "client_id": "555177416583-r8onjbaf25bi4ek1bv8a51i18ta0j2qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3YIu_vzhe70LBX067-0JuKHOHJzMyl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555177416583-r8onjbaf25bi4ek1bv8a51i18ta0j2qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
